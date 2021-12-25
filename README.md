@@ -3,6 +3,7 @@
 My environments:
 - Windows 11 Pro
 - stable-x86_64-pc-windows-msvc (default) rustc 1.57.0 (f1edd0429 2021-11-29)
+- ggez v0.7.0 (https://github.com/ggez/ggez?branch=devel#56fc4ac3)
 
 ---
 
